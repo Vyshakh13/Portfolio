@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+img {
+    top: 0;
+    height: 50%;
+    vertical-align: bottom;
+}
+
+#profilepic{
+    
+    float: left;
+    border:solid;
+    border-width: 20px ;
+    border-color:darkgreen;
+    margin-left: 5%;
+}
+
+#header{
+    background-color:#4A89DC;
+    height: 50vh;
+    padding-top: 40px;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#designation{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color:darkorchid;
+}
+
+#name{
+    color:darkorchid;
+}
+
+h2{
+    float: left;
+    padding-left: 10%;
+}
+
+.top{
+    padding-top: 50px;
+}
+    
+
+
+.intro{
+    padding-top: 20px;
+    padding-right: 20%;
+    font-size: larger;
+    padding-left: 10%;
+    text-align: justify;
+}
+
+.skills {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+    width: 80%; 
+    background-color: #04AA6D;
+    padding-left: 50px;
+}
+
+
+.container {
+    width: 80%;
+    background-color: #ddd;
+    margin-left: 10%;
+}
+
+.feature{
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experience{
+    text-align: left;
+    margin-left: 10%;
+    font-size: larger;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.companyname{
+    font-size: large;
+    color:darkslateblue;
+}
+
+.contact{
+    text-align:left;
+    margin-left: 10%;
+    font-size: large;
+    margin-top: 10px;
+    font-weight: bold; 
+} 
+
+.info{
+        text-align: left;
+        font-size: large;
+        font-weight: bold; 
+}
+
+  
+.css {
+    width: 80%; 
+    background-color: #2196F3;
+}
+
+.js {
+    width: 65%; 
+    background-color: #f44336;
+}
+
+.php {
+    width: 60%; 
+    background-color: #808080;
+} 
+
+a{
+    text-decoration: none;
+    padding-top: 40px;
+    width: 50px;
+    zoom: 200%;
+}
+
+a:hover{
+    color: black;
+}
+
+.main{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border:azure;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:azure;
+    margin-bottom: 5%;
+} 
+
+body{
+    background-color:darkolivegreen;
+}
+
+.fa-facebook {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-twitter {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-instagram {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-linkedin {
+    color: white;
+    cursor: pointer;
+}
+
+.fa-github{
+    color: white;
+    cursor: pointer;
+}
+
+
+
